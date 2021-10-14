@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../vendor/vendor.scss",
+        "../vendor/_font.scss"
+    ],
+    "names": [],
+    "file": "vendor.css"
+}

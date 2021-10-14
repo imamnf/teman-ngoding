@@ -1,0 +1,3 @@
+@mixin fz($times) {
+  font-size: 12px * $times;
+}
